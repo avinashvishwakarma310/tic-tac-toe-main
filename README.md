@@ -1,4 +1,4 @@
-# <a href="">Live preview</a>
+# <a href="https://avinashvishwakarma310.github.io/tic-tac-toe-main/">Live preview</a>
 <div align="center">
   
   <img src="./logo.png" height="150px">
